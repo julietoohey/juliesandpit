@@ -47,8 +47,8 @@ Dot points are One hyphen "-" with 2spa) then text ie
  
  Tables aren't officially supported so for a table you need a pipe characters to create headings for tables and the row under it containts hypens which is the line under the heading.  You don't need to do hypens after the first line eg
  
+| Heading | Header | Head |
+| --- | --- | --- |
+| Content | more content | text |
+| more | more | more |
  
- | heading | header | head |
- | --- | --- | --- | --- |
- | Content | more content | Text |
- | more | more | more |
