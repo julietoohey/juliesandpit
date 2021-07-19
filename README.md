@@ -45,7 +45,7 @@ Dot points are One hyphen "-" with 2spa) then text ie
  
  For strike through you need tilde character ~~Saturday~~   
  
- Tables aren't officially supported so for a table you need a pipe characters to create headings for tables and the row under it containts hypens which is the line under the heading.  You don't need to do hypens after the first line eg
+ Tables aren't officially supported so for a table you need a pipe characters to create headings for tables and the row under it contains hypens which is the line under the heading.  You don't need to do hypens after the first line eg
  
 | Heading | Header | Head |
 | --- | --- | --- |
