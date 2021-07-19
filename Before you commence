@@ -1,3 +1,23 @@
-Hello
+# Some background before you commence
 
-A few words if I may
+The objective of this self paced program is for researchers to consider various processes and/or practices they might like to incorporate in their everyday research practice to help them move towards the reproducibile research pathway.  
+### What do we mean by reproducible research 
+
+Test 
+
+### What is the difference between *reproducibility* and *replication*?
+
+### Why make your research reproducible?
+
+- Business continuity 
+- auditing
+- funding agency requirement
+- FAIR principles 
+- Open Access
+
+
+### What you need to do to make your research data reproducible?
+
+You should consider the requirements of those attempting to reproduce your research.  You may face challenages along your reproducible research journey so we encourages you to take the approach of being a better researcher than you were yesterday. 
+  
+In order for your research to be reproduced by others, you need to make available/accessible *all* related research data sets, analytic code/s, protocols, a list of analysis tools/software/computation, and documentation for data sets and code ie which data sets go with which code sections).  List any resources you've used.
